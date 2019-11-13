@@ -1,2 +1,2 @@
-# awesome-ones
-Collection of some awesome and useful sources, for development.
+# Performance
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink): ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
