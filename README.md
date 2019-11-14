@@ -9,3 +9,6 @@
 
   [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
 - [Rodrigo Pombo](https://pomb.us/) 
+
+# 📋 CheatSheet
+- [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
