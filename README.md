@@ -13,5 +13,5 @@
 # 📋 CheatSheet
 - [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
 
-# Collaboration
+# 🤝 Collaboration
 - [Basecamp Personal](https://basecamp.com/personal) - Get it together and manage projects the right way.
