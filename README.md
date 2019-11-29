@@ -1,5 +1,6 @@
 # 🛠 Lib & Helper
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
+- [React Animated Navigator](https://martinpham.gitlab.io/react-animated-navigator/) - an extension for react-router, which provides animated transitions between routes
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
