@@ -1,6 +1,9 @@
 # 🛠 Lib & Helper
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
-- [React Animated Navigator](https://martinpham.gitlab.io/react-animated-navigator/) - an extension for react-router, which provides animated transitions between routes
+- [React Animated Navigator](https://martinpham.gitlab.io/react-animated-navigator/) - an extension for react-router, which provides animated transitions between routes.
+- [docusaurus](https://docusaurus.io/) - Easy to maintain open source documentation websites.
+- [microbundle](https://npm.im/microbundle) - Zero-configuration bundler for tiny modules.
+- [tsdx](https://npm.im/tsdx) - Zero-config CLI for TypeScript package development.
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
