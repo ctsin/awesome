@@ -5,6 +5,7 @@
 - [microbundle](https://npm.im/microbundle) - Zero-configuration bundler for tiny modules.
 - [tsdx](https://npm.im/tsdx) - Zero-config CLI for TypeScript package development.
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
+- [spectre](https://picturepan2.github.io/spectre/) - A Lightweight, Responsive and Modern CSS Framework.
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
