@@ -5,6 +5,7 @@
 - [microbundle](https://npm.im/microbundle) - Zero-configuration bundler for tiny modules.
 - [tsdx](https://npm.im/tsdx) - Zero-config CLI for TypeScript package development.
 - [Immer](https://immerjs.github.io/immer/docs/introduction) - Immer (German for: always) is a tiny package that allows you to work with immutable state in a more convenient way.
+- [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library.
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
