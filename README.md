@@ -7,7 +7,7 @@
 - [Immer](https://immerjs.github.io/immer/docs/introduction) - Immer (German for: always) is a tiny package that allows you to work with immutable state in a more convenient way.
 - [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library.
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. 
-- [</dom>](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
+- [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
