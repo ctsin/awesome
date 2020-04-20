@@ -8,6 +8,8 @@
 - [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library.
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. 
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
+- [msw](https://redd.gitbook.io/msw) - Client-side API mocking using Service Workers.
+
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
