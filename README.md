@@ -9,6 +9,7 @@
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. 
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
 - [msw](https://redd.gitbook.io/msw) 📡 - Client-side API mocking using Service Workers.
+- [JSON formatter](https://www.freeformatter.com/json-formatter.html)
 
 
 # 🎨 Design & CSS Lib
