@@ -21,6 +21,9 @@
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 
+# Platform
+- [Strapi](https://strapi.io/) - The open source Headless CMS Front-End Developers love.
+
 # ✨ Effect
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
 
