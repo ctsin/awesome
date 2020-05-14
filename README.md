@@ -5,6 +5,7 @@
 - [microbundle](https://npm.im/microbundle) - Zero-configuration bundler for tiny modules.
 - [tsdx](https://npm.im/tsdx) - Zero-config CLI for TypeScript package development.
 - [Immer](https://immerjs.github.io/immer/docs/introduction) - Immer (German for: always) is a tiny package that allows you to work with immutable state in a more convenient way.
+- [Immutablejs](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library.
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. 
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
