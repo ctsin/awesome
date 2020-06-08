@@ -13,6 +13,7 @@
 - [JSON formatter](https://www.freeformatter.com/json-formatter.html)
 - [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
 - [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
+- [iHateRegex](https://ihateregex.io/) 
 
 
 # 🎨 Design & CSS Lib
