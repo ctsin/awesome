@@ -12,6 +12,7 @@
 - [msw](https://redd.gitbook.io/msw) 📡 - Client-side API mocking using Service Workers.
 - [JSON formatter](https://www.freeformatter.com/json-formatter.html)
 - [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
 - [iHateRegex](https://ihateregex.io/) 
 
