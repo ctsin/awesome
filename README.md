@@ -9,11 +9,7 @@
 - [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library.
 - [Plop](https://github.com/plopjs/plop) - Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity. 
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
-- [msw](https://redd.gitbook.io/msw) 📡 - Client-side API mocking using Service Workers.
 - [JSON formatter](https://www.freeformatter.com/json-formatter.html)
-- [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
-- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
-- [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
 - [iHateRegex](https://ihateregex.io/) 
 
 
@@ -44,3 +40,10 @@
 
 # 🤝 Collaboration
 - [Basecamp Personal](https://basecamp.com/personal) - Get it together and manage projects the right way.
+
+# 📀 DataBase & API
+- [Hasura](https://hasura.io/) - Instantly make your data accessible over GraphQL
+- [FaunaDB](https://fauna.com/) - The data API for your client‑serverless applications
+- [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
+- [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
+- [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
