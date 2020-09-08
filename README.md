@@ -25,8 +25,9 @@
 # 🕋 Platform
 - [Strapi](https://strapi.io/) - The open source Headless CMS Front-End Developers love.
 
-# ✨ Effect
+# ✨ Effect & Animation
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
+- [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 
 # 🤹‍ Bloger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
