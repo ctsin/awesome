@@ -28,6 +28,7 @@
 # ✨ Effect & Animation
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
 - [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 
 # 🤹‍ Bloger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
