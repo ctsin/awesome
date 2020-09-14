@@ -1,5 +1,6 @@
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
+- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/docs/getting-started/)
 
 # 🛠 Lib & Helper
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
