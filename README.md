@@ -1,3 +1,7 @@
+# 🖥 CLI
+- [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
+- [cross-env](https://github.com/kentcdodds/cross-env#readme) cross-env - Run scripts that set and use environment variables across platforms
+
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/docs/getting-started/)
@@ -15,6 +19,8 @@
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
 - [JSON formatter](https://www.freeformatter.com/json-formatter.html)
 - [iHateRegex](https://ihateregex.io/) 
+- [Nano ID](https://github.com/ai/nanoid#readme) Nano ID - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
+- [Fscreen](https://github.com/rafgraph/fscreen#readme) Fscreen - Fullscreen API
 
 
 # 🎨 Design & CSS Lib
