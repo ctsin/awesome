@@ -21,6 +21,7 @@
 - [iHateRegex](https://ihateregex.io/) 
 - [Nano ID](https://github.com/ai/nanoid#readme) Nano ID - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 - [Fscreen](https://github.com/rafgraph/fscreen#readme) Fscreen - Fullscreen API
+- [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
 
 
 # 🎨 Design & CSS Lib
