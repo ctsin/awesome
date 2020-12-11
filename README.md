@@ -22,6 +22,8 @@
 - [Nano ID](https://github.com/ai/nanoid#readme) Nano ID - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 - [Fscreen](https://github.com/rafgraph/fscreen#readme) Fscreen - Fullscreen API
 - [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
+- [Hygen](http://www.hygen.io/) Hygen - The scalable code generator that saves you time.
+- [useAuth](https://useauth.dev/) useAuth - React App Authentication
 
 
 # 🎨 Design & CSS Lib
