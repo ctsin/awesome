@@ -2,6 +2,7 @@
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 - [cross-env](https://github.com/kentcdodds/cross-env#readme) cross-env - Run scripts that set and use environment variables across platforms
 - [env-cmd](https://github.com/toddbluhm/env-cmd) env-cmd - Setting environment variables from a file
+- [wait-on](https://www.npmjs.com/package/wait-on) wait-on - wait for files, ports, sockets, http(s) resources
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
