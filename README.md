@@ -1,3 +1,6 @@
+# 📱 React native
+- [Haptics](https://docs.expo.io/versions/latest/sdk/haptics/) Haptics - expo-haptics provides haptic (touch) feedback for iOS 10.0+ and Android.
+
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 - [cross-env](https://github.com/kentcdodds/cross-env#readme) cross-env - Run scripts that set and use environment variables across platforms
