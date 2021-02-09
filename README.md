@@ -47,8 +47,9 @@
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
 - [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
+- [Remotion](https://www.remotion.dev/) - Create motion graphics in React
 
-# 🤹‍ Bloger
+# 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
 
   [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
