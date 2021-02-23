@@ -49,6 +49,7 @@
 - [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [Remotion](https://www.remotion.dev/) - Create motion graphics in React
+- [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
 
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
