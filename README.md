@@ -29,6 +29,7 @@
 - [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
 - [Hygen](http://www.hygen.io/) Hygen - The scalable code generator that saves you time.
 - [useAuth](https://useauth.dev/) useAuth - React App Authentication
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
 
 
 # 🎨 Design & CSS Lib
