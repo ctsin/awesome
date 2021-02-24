@@ -43,6 +43,7 @@
 # 🕋 Platform
 - [Strapi](https://strapi.io/) - The open source Headless CMS Front-End Developers love.
 - [Frontify](https://docs.frontity.org/) - The React framework for WordPress
+- [Solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
 # ✨ Effect & Animation
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
