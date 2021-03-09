@@ -54,6 +54,7 @@
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [Remotion](https://www.remotion.dev/) - Create motion graphics in React
 - [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
+- [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
