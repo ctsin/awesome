@@ -33,7 +33,7 @@
 - [Hygen](http://www.hygen.io/) Hygen - The scalable code generator that saves you time.
 - [useAuth](https://useauth.dev/) useAuth - React App Authentication
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
-
+- [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
