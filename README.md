@@ -34,6 +34,16 @@
 - [useAuth](https://useauth.dev/) useAuth - React App Authentication
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
 - [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
+- [SWR](https://swr.vercel.app/) - React Hooks library for data fetching by Vercel. (See more React Query).
+
+# 📊 React Chart
+- [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
+- [VICTORY](https://formidable.com/open-source/victory/) - React.js components for modular charting and data visualization.
+- [Recharts](https://recharts.org/en-US) - A composable charting library built on React components
+- [nivo](https://nivo.rocks/) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
+- [VX](https://vx-demo.vercel.app/) - vx is collection of reusable low-level visualization components.
+- [visx](https://airbnb.io/visx/) - visx a collection of expressive, low-level visualization primitives for React
+- [D3FC](https://d3fc.io/) - Components to rapidly build fast, highly customisable, interactive charts with D3
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
