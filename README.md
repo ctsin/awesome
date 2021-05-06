@@ -36,6 +36,7 @@
 - [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
 - [SWR](https://swr.vercel.app/) - React Hooks library for data fetching by Vercel. (See more React Query).
 - [幸运大转盘](https://100px.net/) - 一个基于 Js + Canvas 的【大转盘 & 九宫格】抽奖
+- [React scroll sync](https://github.com/okonet/react-scroll-sync) - Synced scroll position across multiple scrollable elements
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
