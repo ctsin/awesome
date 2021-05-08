@@ -46,6 +46,7 @@
 - [VX](https://vx-demo.vercel.app/) - vx is collection of reusable low-level visualization components.
 - [visx](https://airbnb.io/visx/) - visx a collection of expressive, low-level visualization primitives for React
 - [D3FC](https://d3fc.io/) - Components to rapidly build fast, highly customisable, interactive charts with D3
+- [React Flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
@@ -60,6 +61,7 @@
 - [Strapi](https://strapi.io/) - The open source Headless CMS Front-End Developers love.
 - [Frontify](https://docs.frontity.org/) - The React framework for WordPress
 - [Solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus. 
 
 # ✨ Effect & Animation
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
