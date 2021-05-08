@@ -62,6 +62,7 @@
 - [Frontify](https://docs.frontity.org/) - The React framework for WordPress
 - [Solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus. 
+- [TypeDoc](https://typedoc.org/guides/doccomments/) - TypeDoc runs the TypeScript compiler and extracts type information from the generated compiler symbols.
 
 # ✨ Effect & Animation
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
