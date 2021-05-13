@@ -3,6 +3,7 @@
 - [Vision Camera](https://github.com/cuvent/react-native-vision-camera) -  📸 The Camera library that sees the vision. 
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger
 - [React Native Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet) -  A performant interactive bottom sheet with fully configurable options 🚀 
+- [react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision. 
 
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
