@@ -4,6 +4,8 @@
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger
 - [React Native Bottom Sheet](https://github.com/gorhom/react-native-bottom-sheet) -  A performant interactive bottom sheet with fully configurable options 🚀 
 - [react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision. 
+- [react-native-keyboard-tools](https://github.com/Faradey27/react-native-keyboard-tools) - ⌨️ A list of components and tools that help to work with the keyboard in react-native.
+- [react-native-zoomable-view](https://github.com/DuDigital/react-native-zoomable-view) - 🖼️ A view component for react-native with pinch to zoom, tap to move and double tap to zoom capability.
 
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
@@ -33,12 +35,22 @@
 - [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
 - [Hygen](http://www.hygen.io/) Hygen - The scalable code generator that saves you time.
 - [useAuth](https://useauth.dev/) useAuth - React App Authentication
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
-- [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
 - [SWR](https://swr.vercel.app/) - React Hooks library for data fetching by Vercel. (See more React Query).
 - [幸运大转盘](https://100px.net/) - 一个基于 Js + Canvas 的【大转盘 & 九宫格】抽奖
 - [React scroll sync](https://github.com/okonet/react-scroll-sync) - Synced scroll position across multiple scrollable elements
 - [json2mq](https://www.npmjs.com/package/json2mq) - json2mq is used to generate media query string from JSON or javascript object.
+- [mathjax](https://www.mathjax.org/) - Beautiful and accessible math in all browsers
+- [use-onclickoutside](https://github.com/Andarist/use-onclickoutside) 🖱️ React hook for listening for clicks outside of an element
+- [jsonmatic](https://jsonmatic.com/) 🖥️ Online Service - transform a CSV into a JSON
+- [ React csv downloader](https://github.com/dolezel/react-csv-downloader)
+- [introjs](https://introjs.com/) ⚠️ Commercial License Required - Introduce users to your product
+- [Handsontable](https://handsontable.com/) ⚠️ Commercial License Required - Rock-solid data grid
+for web applications
+
+# 📺 Multimedia
+- [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
+- [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
@@ -49,6 +61,7 @@
 - [visx](https://airbnb.io/visx/) - visx a collection of expressive, low-level visualization primitives for React
 - [D3FC](https://d3fc.io/) - Components to rapidly build fast, highly customisable, interactive charts with D3
 - [React Flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
+- [Observable](https://observablehq.com/) - Explore, visualize, and analyze data.
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
