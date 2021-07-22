@@ -51,6 +51,7 @@ for web applications
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
 - [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
+- [use-smartcrop](https://github.com/useflyyer/use-smartcrop) - React hook for smartcrop.js to content aware image cropping with points of interest and facial recognition.
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
