@@ -44,8 +44,8 @@
 - [jsonmatic](https://jsonmatic.com/) 🖥️ Online Service - transform a CSV into a JSON
 - [ React csv downloader](https://github.com/dolezel/react-csv-downloader)
 - [introjs](https://introjs.com/) ⚠️ Commercial License Required - Introduce users to your product
-- [Handsontable](https://handsontable.com/) ⚠️ Commercial License Required - Rock-solid data grid
-for web applications
+- [Handsontable](https://handsontable.com/) ⚠️ Commercial License Required - Rock-solid data grid for web applications
+- [filesize.js](https://filesizejs.com/)
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
@@ -69,6 +69,7 @@ for web applications
 - [spectre](https://picturepan2.github.io/spectre/) - A Lightweight, Responsive and Modern CSS Framework.
 - [adobe/spectrum-css](http://opensource.adobe.com/spectrum-css/) - The standard CSS implementation of the Spectrum design language.
 - [carbon-design-system/carbon](https://www.carbondesignsystem.com/) - A design system built by IBM
+- [Mantine](https://mantine.dev/) - A fully featured React components and hooks library
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
