@@ -46,6 +46,7 @@
 - [introjs](https://introjs.com/) ⚠️ Commercial License Required - Introduce users to your product
 - [Handsontable](https://handsontable.com/) ⚠️ Commercial License Required - Rock-solid data grid for web applications
 - [filesize.js](https://filesizejs.com/)
+- [Blitz](https://blitzjs.com/) - The Fullstack React Framework
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
