@@ -47,6 +47,12 @@
 - [Handsontable](https://handsontable.com/) ⚠️ Commercial License Required - Rock-solid data grid for web applications
 - [filesize.js](https://filesizejs.com/)
 - [Blitz](https://blitzjs.com/) - The Fullstack React Framework
+- [CountUp.js](https://inorganik.github.io/countUp.js/)
+- [react-native-notifications](https://github.com/wix/react-native-notifications)
+- [React Native Share](https://react-native-share.github.io/react-native-share/)
+- [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using just Javascript.
+Works in the browser and in Node
+- [React Hooks Collection](https://github.com/streamich/react-use)
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
