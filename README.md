@@ -53,6 +53,7 @@
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using just Javascript.
 Works in the browser and in Node
 - [React Hooks Collection](https://github.com/streamich/react-use)
+- [react-is](https://www.npmjs.com/package/react-is) - test arbitrary values and see if they're a particular React element type.
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
