@@ -54,6 +54,7 @@
 Works in the browser and in Node
 - [React Hooks Collection](https://github.com/streamich/react-use)
 - [react-is](https://www.npmjs.com/package/react-is) - test arbitrary values and see if they're a particular React element type.
+- https://createapp.dev/ - Frontend build config generator
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
