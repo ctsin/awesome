@@ -56,6 +56,7 @@ Works in the browser and in Node
 - [react-is](https://www.npmjs.com/package/react-is) - test arbitrary values and see if they're a particular React element type.
 - https://createapp.dev/ - Frontend build config generator
 - [cross-context-events](https://github.com/mia1024/cross-context-events) - Send and receive events across JS execution context.
+- [jsome](https://www.npmjs.com/package/jsome) - Make your JSON objects look AWESOME!
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
