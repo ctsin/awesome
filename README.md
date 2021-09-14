@@ -76,6 +76,7 @@ Works in the browser and in Node
 - [D3FC](https://d3fc.io/) - Components to rapidly build fast, highly customisable, interactive charts with D3
 - [React Flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
 - [Observable](https://observablehq.com/) - Explore, visualize, and analyze data.
+- [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams 
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
