@@ -59,6 +59,7 @@ Works in the browser and in Node
 - [jsome](https://www.npmjs.com/package/jsome) - Make your JSON objects look AWESOME!
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers
 - [React render tracker](https://github.com/lahmatiy/react-render-tracker)
+- [React Query hooks for Firebase](https://github.com/invertase/react-query-firebase)
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
