@@ -62,6 +62,7 @@ Works in the browser and in Node
 - [React Query hooks for Firebase](https://github.com/invertase/react-query-firebase)
 - [useQueryParams](https://www.npmjs.com/package/use-query-params) - A React Hook, HOC, and Render Props solution for managing state in URL query parameters with easy serialization. 
 - [redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store 
+- [code2flow](https://github.com/scottrogowski/code2flow/) - Pretty good call graphs for dynamic languages
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
