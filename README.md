@@ -63,6 +63,7 @@ Works in the browser and in Node
 - [useQueryParams](https://www.npmjs.com/package/use-query-params) - A React Hook, HOC, and Render Props solution for managing state in URL query parameters with easy serialization. 
 - [redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store 
 - [code2flow](https://github.com/scottrogowski/code2flow/) - Pretty good call graphs for dynamic languages
+- [octokit](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
