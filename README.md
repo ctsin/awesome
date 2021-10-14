@@ -6,6 +6,7 @@
 - [react-native-vision-camera](https://github.com/cuvent/react-native-vision-camera) - 📸 The Camera library that sees the vision. 
 - [react-native-keyboard-tools](https://github.com/Faradey27/react-native-keyboard-tools) - ⌨️ A list of components and tools that help to work with the keyboard in react-native.
 - [react-native-zoomable-view](https://github.com/DuDigital/react-native-zoomable-view) - 🖼️ A view component for react-native with pinch to zoom, tap to move and double tap to zoom capability.
+- [react-native-panorama-view](https://github.com/lightbasenl/react-native-panorama-view) - A simple component for displaying panoramic images in your React Native app.
 
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
