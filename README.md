@@ -64,6 +64,7 @@ Works in the browser and in Node
 - [redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store 
 - [code2flow](https://github.com/scottrogowski/code2flow/) - Pretty good call graphs for dynamic languages
 - [octokit](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
+- [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 
 # 📺 Multimedia
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
