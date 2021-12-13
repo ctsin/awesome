@@ -67,6 +67,9 @@ Works in the browser and in Node
 - [octokit](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [smooth-signature](https://github.com/linjc/smooth-signature) - H5带笔锋手写签名，支持PC端和移动端
+- [react-view-pdf](https://github.com/ZEISS/react-view-pdf) - A simple and powerful PDF Viewer library for React.js.
+- [docxjs](https://docx.js.org/#/) - Easily generate .docx files with JS/TS. Works for Node and on the Browser
+- [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
 
 
 # 📺 Multimedia
@@ -86,6 +89,7 @@ Works in the browser and in Node
 - [React Flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams.
 - [Observable](https://observablehq.com/) - Explore, visualize, and analyze data.
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams 
+- [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash.
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
