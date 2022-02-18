@@ -116,6 +116,7 @@ Works in the browser and in Node
 - [Remotion](https://www.remotion.dev/) - Create motion graphics in React
 - [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
 - [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
+- [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code.
 
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
