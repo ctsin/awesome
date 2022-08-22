@@ -70,6 +70,8 @@ Works in the browser and in Node
 - [react-view-pdf](https://github.com/ZEISS/react-view-pdf) - A simple and powerful PDF Viewer library for React.js.
 - [docxjs](https://docx.js.org/#/) - Easily generate .docx files with JS/TS. Works for Node and on the Browser
 - [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
+- [grex](https://pemistahl.github.io/grex-js/) - Generate a matching regular expression from the test cases you provide
+- [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 
 
 # 📺 Multimedia
@@ -117,7 +119,6 @@ Works in the browser and in Node
 - [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
 - [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code.
-
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
 
