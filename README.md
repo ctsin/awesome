@@ -71,6 +71,7 @@ Works in the browser and in Node
 - [docxjs](https://docx.js.org/#/) - Easily generate .docx files with JS/TS. Works for Node and on the Browser
 - [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
 - [grex](https://pemistahl.github.io/grex-js/) - Generate a matching regular expression from the test cases you provide
+- [AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English Regex
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 
 
@@ -100,6 +101,7 @@ Works in the browser and in Node
 - [adobe/spectrum-css](http://opensource.adobe.com/spectrum-css/) - The standard CSS implementation of the Spectrum design language.
 - [carbon-design-system/carbon](https://www.carbondesignsystem.com/) - A design system built by IBM
 - [Mantine](https://mantine.dev/) - A fully featured React components and hooks library
+- [mjml](https://mjml.io/) - The only framework that makes responsive email easy
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
