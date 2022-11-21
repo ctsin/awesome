@@ -13,6 +13,7 @@
 - [cross-env](https://github.com/kentcdodds/cross-env#readme) cross-env - Run scripts that set and use environment variables across platforms
 - [env-cmd](https://github.com/toddbluhm/env-cmd) env-cmd - Setting environment variables from a file
 - [wait-on](https://www.npmjs.com/package/wait-on) wait-on - wait for files, ports, sockets, http(s) resources
+- [tslog](https://tslog.js.org/#/) Beautiful logging experience for TypeScript and JavaScript
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
@@ -69,10 +70,12 @@ Works in the browser and in Node
 - [smooth-signature](https://github.com/linjc/smooth-signature) - H5带笔锋手写签名，支持PC端和移动端
 - [react-view-pdf](https://github.com/ZEISS/react-view-pdf) - A simple and powerful PDF Viewer library for React.js.
 - [docxjs](https://docx.js.org/#/) - Easily generate .docx files with JS/TS. Works for Node and on the Browser
+- [docx](https://github.com/dolanmiu/docx) Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. 
 - [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
 - [grex](https://pemistahl.github.io/grex-js/) - Generate a matching regular expression from the test cases you provide
 - [AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English Regex
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
+- [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/) A javascript scrollbar plugin that hides native scrollbars
 
 
 # 📺 Multimedia
