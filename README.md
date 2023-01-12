@@ -150,3 +150,4 @@ Works in the browser and in Node
 - [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
+- [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
