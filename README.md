@@ -100,6 +100,7 @@ Works in the browser and in Node
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams 
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash.
 - [vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+- [mafs](https://mafs.dev/) - React components for interactive math
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
