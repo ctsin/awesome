@@ -10,6 +10,7 @@
 - [react-native-camera-kit](https://github.com/teslamotors/react-native-camera-kit) by Tesla Motors - A high performance, easy to use, rock solid camera library for React Native apps. 
 - [Eruda](https://shopify.github.io/react-native-skia/) - Console for Mobile Browsers
 - [React Native Skia](https://shopify.github.io/react-native-skia/) High Performance 2D Graphics
+- [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
