@@ -36,6 +36,8 @@
 - [HTML DOM](https://htmldom.dev/) - how to manage HTML DOM with vanilla JavaScript only.
 - [JSON formatter](https://www.freeformatter.com/json-formatter.html)
 - [iHateRegex](https://ihateregex.io/) 
+- [AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English Regex
+- [🦄 magic-regexp](https://regexp.dev/) - A compiled-away, type-safe, readable RegExp alternative.
 - [Nano ID](https://github.com/ai/nanoid#readme) Nano ID - A tiny, secure, URL-friendly, unique string ID generator for JavaScript.
 - [Fscreen](https://github.com/rafgraph/fscreen#readme) Fscreen - Fullscreen API
 - [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
@@ -77,7 +79,6 @@ Works in the browser and in Node
 - [docx](https://github.com/dolanmiu/docx) Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. 
 - [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
 - [grex](https://pemistahl.github.io/grex-js/) - Generate a matching regular expression from the test cases you provide
-- [AutoRegex](https://www.autoregex.xyz/) - Effortless conversions from English Regex
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/) A javascript scrollbar plugin that hides native scrollbars
 - [tremor](https://www.tremor.so/) - The React library to build dashboards fast
