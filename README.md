@@ -82,6 +82,7 @@ Works in the browser and in Node
 - [html-to-image](https://github.com/bubkoo/html-to-image) - Generates an image from a DOM node using HTML5 canvas and SVG.
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/) A javascript scrollbar plugin that hides native scrollbars
 - [tremor](https://www.tremor.so/) - The React library to build dashboards fast
+- [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 
 
 # 📺 Multimedia
