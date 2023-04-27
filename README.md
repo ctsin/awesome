@@ -11,6 +11,7 @@
 - [Eruda](https://shopify.github.io/react-native-skia/) - Console for Mobile Browsers
 - [React Native Skia](https://shopify.github.io/react-native-skia/) High Performance 2D Graphics
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - Show a splash screen during app startup. Hide it when you are ready.
 
 # 🖥 CLI
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
@@ -115,6 +116,7 @@ Works in the browser and in Node
 - [carbon-design-system/carbon](https://www.carbondesignsystem.com/) - A design system built by IBM
 - [Mantine](https://mantine.dev/) - A fully featured React components and hooks library
 - [mjml](https://mjml.io/) - The only framework that makes responsive email easy
+- [iconoir](https://iconoir.com/) - A high-quality selection of free icons.
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
