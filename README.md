@@ -152,6 +152,7 @@ Works in the browser and in Node
 - [Basecamp Personal](https://basecamp.com/personal) - Get it together and manage projects the right way.
 
 # 📀 DataBase & API
+- [express-validator](https://www.npmjs.com/package/express-validator)
 - [Hasura](https://hasura.io/) - Instantly make your data accessible over GraphQL
 - [FaunaDB](https://fauna.com/) - The data API for your client‑serverless applications
 - [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
