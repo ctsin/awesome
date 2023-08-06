@@ -86,6 +86,7 @@ Works in the browser and in Node
 - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/) A javascript scrollbar plugin that hides native scrollbars
 - [tremor](https://www.tremor.so/) - The React library to build dashboards fast
 - [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
+- https://deno.com/blog/publish-esm-cjs-module-dnt by Deno team, the easiest way to publish a hybrid npm module for ESM and CommonJS
 
 
 # 📺 Multimedia
