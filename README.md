@@ -143,6 +143,7 @@ Works in the browser and in Node
   [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
 - [Rodrigo Pombo](https://pomb.us/) 
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications. 
+- https://discoverthreejs.com/
 
 # 📋 CheatSheet
 - [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
