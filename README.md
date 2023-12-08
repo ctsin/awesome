@@ -88,6 +88,7 @@ Works in the browser and in Node
 - [tremor](https://www.tremor.so/) - The React library to build dashboards fast
 - [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript
 - https://deno.com/blog/publish-esm-cjs-module-dnt by Deno team, the easiest way to publish a hybrid npm module for ESM and CommonJS
+- https://github.com/vinejs/vine  VineJS is a form data validation library for Node.js 
 
 
 # 📺 Multimedia
