@@ -2,6 +2,8 @@
 
 - https://hexomatic.com/ Web scraping + AI work automation
 - https://app.fliki.ai/ Video creation made 10x simpler & faster with AI
+- https://invideo.io/ Create videos with text prompts
+- https://audiobox.metademolab.com/ 
 
 # 📱 React native
 - [Haptics](https://docs.expo.io/versions/latest/sdk/haptics/) Haptics - expo-haptics provides haptic (touch) feedback for iOS 10.0+ and Android.
