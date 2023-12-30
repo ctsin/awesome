@@ -4,6 +4,7 @@
 - https://app.fliki.ai/ Video creation made 10x simpler & faster with AI
 - https://invideo.io/ Create videos with text prompts
 - https://audiobox.metademolab.com/ 
+- https://developers.cloudflare.com/workers-ai/ Cloudflare Workers AI
 
 # 📱 React native
 - [Haptics](https://docs.expo.io/versions/latest/sdk/haptics/) Haptics - expo-haptics provides haptic (touch) feedback for iOS 10.0+ and Android.
@@ -99,6 +100,7 @@ Works in the browser and in Node
 
 
 # 📺 Multimedia
+- https://audiocut.app/ Automatically trim audio based on subtitles, removing gaps, noise, and duplicate content
 - [Pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites 
 - [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
