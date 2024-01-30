@@ -7,6 +7,7 @@
 - https://developers.cloudflare.com/workers-ai/ Cloudflare Workers AI
 
 # 📱 React native
+- https://github.com/zoontek/react-native-bootsplash
 - [Haptics](https://docs.expo.io/versions/latest/sdk/haptics/) Haptics - expo-haptics provides haptic (touch) feedback for iOS 10.0+ and Android.
 - [Vision Camera](https://github.com/cuvent/react-native-vision-camera) -  📸 The Camera library that sees the vision. 
 - [Flipper](https://fbflipper.com/) - Extensible mobile app debugger
