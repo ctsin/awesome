@@ -1,3 +1,8 @@
+# 💷 Freelance
+
+- https://wellfound.com/
+- https://www.workingnomads.com/jobs
+
 # 🧠 Ai
 
 - https://hexomatic.com/ Web scraping + AI work automation
