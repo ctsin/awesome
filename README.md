@@ -148,6 +148,7 @@ Works in the browser and in Node
 - [TypeDoc](https://typedoc.org/guides/doccomments/) - TypeDoc runs the TypeScript compiler and extracts type information from the generated compiler symbols.
 
 # ✨ Effect & Animation
+- https://ui.aceternity.com/ Make your websites look 10x better
 - https://spline.design/ Spline - 3D Design tool in the browser with real-time collaboration
 - [Highway](https://github.com/Dogstudio/highway) - A Modern Javascript Transitions Manager
 - [Framer Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
