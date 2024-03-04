@@ -33,6 +33,7 @@
 - [env-cmd](https://github.com/toddbluhm/env-cmd) env-cmd - Setting environment variables from a file
 - [wait-on](https://www.npmjs.com/package/wait-on) wait-on - wait for files, ports, sockets, http(s) resources
 - [tslog](https://tslog.js.org/#/) Beautiful logging experience for TypeScript and JavaScript
+- https://wxt.dev/ Next-gen Web Extension Framework
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
