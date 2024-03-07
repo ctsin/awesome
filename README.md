@@ -137,6 +137,7 @@ Works in the browser and in Node
 - [Mantine](https://mantine.dev/) - A fully featured React components and hooks library
 - [mjml](https://mjml.io/) - The only framework that makes responsive email easy
 - [iconoir](https://iconoir.com/) - A high-quality selection of free icons.
+- https://atlassian.design/components Atlassian's end-to-end design language
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
