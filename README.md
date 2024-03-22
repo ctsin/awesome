@@ -27,13 +27,14 @@
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - Show a splash screen during app startup. Hide it when you are ready.
 
-# 🖥 CLI
+# 🖥 Development
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
 - [cross-env](https://github.com/kentcdodds/cross-env#readme) cross-env - Run scripts that set and use environment variables across platforms
 - [env-cmd](https://github.com/toddbluhm/env-cmd) env-cmd - Setting environment variables from a file
 - [wait-on](https://www.npmjs.com/package/wait-on) wait-on - wait for files, ports, sockets, http(s) resources
 - [tslog](https://tslog.js.org/#/) Beautiful logging experience for TypeScript and JavaScript
 - https://wxt.dev/ Next-gen Web Extension Framework
+- https://mermaid.js.org/intro/  Mermaid lets you create diagrams and visualizations using text and code.
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
@@ -138,6 +139,8 @@ Works in the browser and in Node
 - [mjml](https://mjml.io/) - The only framework that makes responsive email easy
 - [iconoir](https://iconoir.com/) - A high-quality selection of free icons.
 - https://atlassian.design/components Atlassian's end-to-end design language
+- https://www.designsystemhunt.com/ Discover 142 Design Systems
+- https://stockcake.com/ Captivating Free Images for Every Occasion
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
