@@ -114,6 +114,7 @@ Works in the browser and in Node
 - [remotion](https://github.com/JonnyBurger/remotion) remotion - Create videos programmatically in React
 - [use-smartcrop](https://github.com/useflyyer/use-smartcrop) - React hook for smartcrop.js to content aware image cropping with points of interest and facial recognition.
 - https://github.com/bbc/peaks.js Browser-based audio waveform visualization
+- https://github.com/jakubfiala/atrament A small JS library for beautiful drawing and handwriting on the HTML Canvas.
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
