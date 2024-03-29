@@ -175,9 +175,9 @@ Works in the browser and in Node
 - [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
 - [Free Country API](http://restcountries.eu/#rest-countries)
 - [6 PDF Libs](https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p)
+- https://morioh.com/a/db0543ba9652/150-free-apis-for-software-and-web-development
 
 # 🤝 Collaboration
-- [Basecamp Personal](https://basecamp.com/personal) - Get it together and manage projects the right way.
 
 # 📀 DataBase & API
 - [Serverless Postgres](https://neon.tech/)
