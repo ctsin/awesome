@@ -142,6 +142,7 @@ Works in the browser and in Node
 - https://atlassian.design/components Atlassian's end-to-end design language
 - https://www.designsystemhunt.com/ Discover 142 Design Systems
 - https://stockcake.com/ Captivating Free Images for Every Occasion
+- https://www.radix-ui.com/ An open source component library optimized for fast development
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
@@ -163,10 +164,10 @@ Works in the browser and in Node
 - [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
 - [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code.
+
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
-
-  [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
+- [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
 - [Rodrigo Pombo](https://pomb.us/) 
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications. 
 - https://discoverthreejs.com/
