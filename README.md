@@ -165,6 +165,19 @@ Works in the browser and in Node
 - [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code.
 
+React Native
+
+- Reanimated React Native Reanimated: https://docs.swmansion.com/react-native-reanimated/
+- Moti: https://moti.fyi
+- Marquee: https://github.com/animate-react-native/marquee
+- Lottie lottie-react-native/lottie-react-native: https://github.com/lottie-react-native/lottie-react-native
+- Rive: https://github.com/rive-app/rive-react-native
+- pmndrs/react-spring: https://github.com/pmndrs/react-spring
+- meliorence/react-native-snap-carousel: https://github.com/meliorence/react-native-snap-carousel
+- oblador/react-native-animatable: https://github.com/oblador/react-native-animatable
+- Skia Shopify/react-native-skia: https://github.com/Shopify/react-native-skia
+
+
 # 🤹‍ Blogger
 - [Amelia Wattenberger](https://www.newline.co/fullstack-d3) - Front end developer on data visualization
 - [The Fullstack D3 book](https://www.newline.co/fullstack-d3)
