@@ -116,6 +116,8 @@ Works in the browser and in Node
 - [use-smartcrop](https://github.com/useflyyer/use-smartcrop) - React hook for smartcrop.js to content aware image cropping with points of interest and facial recognition.
 - https://github.com/bbc/peaks.js Browser-based audio waveform visualization
 - https://github.com/jakubfiala/atrament A small JS library for beautiful drawing and handwriting on the HTML Canvas.
+- https://rmbg.fun/
+- https://cutout.aiwave.cc/
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
@@ -203,3 +205,4 @@ React Native
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
 - [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
+- https://github.com/drawdb-io/drawdb
