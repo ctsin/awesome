@@ -106,7 +106,10 @@ Works in the browser and in Node
 - https://deno.com/blog/publish-esm-cjs-module-dnt by Deno team, the easiest way to publish a hybrid npm module for ESM and CommonJS
 - https://github.com/vinejs/vine  VineJS is a form data validation library for Node.js 
 - https://hyperformula.handsontable.com/ An open-source headless spreadsheet for business web apps
+- https://github.com/Rich-Harris/devalue Like JSON.stringify, but handles
 
+- https://imask.js.org/ vanilla javascript input mask
+- https://s-yadav.github.io/react-number-format/docs/props React Number format
 
 # 📺 Multimedia
 - https://audiocut.app/ Automatically trim audio based on subtitles, removing gaps, noise, and duplicate content
@@ -133,6 +136,7 @@ Works in the browser and in Node
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash.
 - [vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [mafs](https://mafs.dev/) - React components for interactive math
+- https://unovis.dev/ A modular data visualization framework for React, Angular, Svelte, Vue and vanilla TypeScript or JavaScript
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
