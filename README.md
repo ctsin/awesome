@@ -171,6 +171,7 @@ Works in the browser and in Node
 - [Rive](https://rive.app/resources/) - Create and ship beautiful animations to any platform
 - [Lottie by AirBnB](https://airbnb.design/lottie/) - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 - [Vanta.js](https://www.vantajs.com/) - Animated website backgrounds in a few lines of code.
+- https://github.com/morellodev/react-awesome-reveal React components to add reveal animations using the Intersection Observer API and CSS Animations. 
 
 React Native
 
