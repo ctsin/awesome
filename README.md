@@ -25,7 +25,8 @@
 - [Eruda](https://shopify.github.io/react-native-skia/) - Console for Mobile Browsers
 - [React Native Skia](https://shopify.github.io/react-native-skia/) High Performance 2D Graphics
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
-- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - Show a splash screen during app startup. Hide it when you are ready.
+- [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - Show a splash screen during app startup. Hide it when you are ready. [Tutorial 🔗](https://www.freecodecamp.org/news/react-native-splash-screen/)
+- https://github.com/Temzasse/react-modal-sheet Flexible bottom sheet component built with Framer Motion
 
 # 🖥 Development
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
