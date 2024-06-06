@@ -27,6 +27,7 @@
 - [react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 - [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) - Show a splash screen during app startup. Hide it when you are ready. [Tutorial 🔗](https://www.freecodecamp.org/news/react-native-splash-screen/)
 - https://github.com/Temzasse/react-modal-sheet Flexible bottom sheet component built with Framer Motion
+- https://github.com/EvanBacon/expo-quick-actions Add home screen quick actions / shortcuts to your React Native app
 
 # 🖥 Development
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
