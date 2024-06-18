@@ -140,6 +140,8 @@ Works in the browser and in Node
 - [vizzu-lib](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
 - [mafs](https://mafs.dev/) - React components for interactive math
 - https://unovis.dev/ A modular data visualization framework for React, Angular, Svelte, Vue and vanilla TypeScript or JavaScript
+- http://jquense.github.io/react-big-calendar/examples/?path=/story/about-big-calendar--page Big Calendar
+- https://www.blocknotejs.org/ BlockNote
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
@@ -153,6 +155,7 @@ Works in the browser and in Node
 - https://www.designsystemhunt.com/ Discover 142 Design Systems
 - https://stockcake.com/ Captivating Free Images for Every Occasion
 - https://www.radix-ui.com/ An open source component library optimized for fast development
+- https://jvm-docs.vercel.app/ Jsvectormap
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
