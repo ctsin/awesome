@@ -151,6 +151,8 @@ Works in the browser and in Node
 - [Mantine](https://mantine.dev/) - A fully featured React components and hooks library
 - [mjml](https://mjml.io/) - The only framework that makes responsive email easy
 - [iconoir](https://iconoir.com/) - A high-quality selection of free icons.
+- https://lucide.dev/ Beautiful &
+consistent icons
 - https://atlassian.design/components Atlassian's end-to-end design language
 - https://www.designsystemhunt.com/ Discover 142 Design Systems
 - https://stockcake.com/ Captivating Free Images for Every Occasion
