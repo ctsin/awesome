@@ -142,6 +142,8 @@ Works in the browser and in Node
 - https://unovis.dev/ A modular data visualization framework for React, Angular, Svelte, Vue and vanilla TypeScript or JavaScript
 - http://jquense.github.io/react-big-calendar/examples/?path=/story/about-big-calendar--page Big Calendar
 - https://www.blocknotejs.org/ BlockNote
+- https://github.com/Microsoft/roosterjs?tab=readme-ov-file roosterjs is a framework-independent javascript rich text editor.
+- https://github.com/josdejong/jsoneditor A web-based tool to view, edit, format, and validate JSON 
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
