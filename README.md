@@ -144,6 +144,7 @@ Works in the browser and in Node
 - https://www.blocknotejs.org/ BlockNote
 - https://github.com/Microsoft/roosterjs?tab=readme-ov-file roosterjs is a framework-independent javascript rich text editor.
 - https://github.com/josdejong/jsoneditor A web-based tool to view, edit, format, and validate JSON 
+- https://observablehq.com/plot/ Observable Plot The JavaScript library for exploratory data visualization
 
 # 🎨 Design & CSS Lib
 - [adobe/leonardo](http://www.leonardocolor.io/) - Authoring adaptive color palettes for generating color based on a desired contrast ratio.
