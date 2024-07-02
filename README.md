@@ -212,6 +212,8 @@ React Native
 - https://morioh.com/a/db0543ba9652/150-free-apis-for-software-and-web-development
 
 # 🤝 Collaboration
+- https://www.focalboard.com/ Open source project management for technical teams
+- https://logseq.com/ A privacy-first, open-source platform for knowledge management and collaboration.
 
 # 📀 DataBase & API
 - [Serverless Postgres](https://neon.tech/)
