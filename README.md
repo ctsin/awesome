@@ -165,6 +165,7 @@ consistent icons
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+- https://million.dev/ Identify and fix slow code–in minutes, not months.
 
 # 🕋 Platform
 - [Strapi](https://strapi.io/) - The open source Headless CMS Front-End Developers love.
@@ -186,7 +187,7 @@ consistent icons
 - https://github.com/morellodev/react-awesome-reveal React components to add reveal animations using the Intersection Observer API and CSS Animations. 
 - https://motioncanvas.io/ A TypeScript library for creating animated videos using the Canvas API.
 
-React Native
+## For React Native
 
 - Reanimated React Native Reanimated: https://docs.swmansion.com/react-native-reanimated/
 - Moti: https://moti.fyi
