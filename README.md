@@ -10,6 +10,7 @@
 - https://invideo.io/ Create videos with text prompts
 - https://audiobox.metademolab.com/ 
 - https://developers.cloudflare.com/workers-ai/ Cloudflare Workers AI
+- https://clipchamp.com/en/ Quick and easy video editor (for Chrome and Edge only)
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
