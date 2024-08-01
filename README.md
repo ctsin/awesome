@@ -52,6 +52,7 @@
 - https://naver.github.io/egjs-conveyer/ egjs - Conveyer
 - https://naver.github.io/egjs-agent/ egjs - Extracts browser and operating system information from the user agent string or user agent object
 - https://github.com/wclr/yalc Work with yarn/npm packages locally like a boss.
+- https://github.com/pmndrs/use-gesture Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components. 
 - [next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer) - A package for visualizing Next.js app directory routes.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager
