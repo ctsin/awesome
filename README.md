@@ -11,6 +11,7 @@
 - https://audiobox.metademolab.com/ 
 - https://developers.cloudflare.com/workers-ai/ Cloudflare Workers AI
 - https://clipchamp.com/en/ Quick and easy video editor (for Chrome and Edge only)
+- https://luvvoice.com/ Free text to speech over 200 voices​ and 70 languages
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
