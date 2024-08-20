@@ -197,6 +197,7 @@ consistent icons
 - https://github.com/morellodev/react-awesome-reveal React components to add reveal animations using the Intersection Observer API and CSS Animations. 
 - https://motioncanvas.io/ A TypeScript library for creating animated videos using the Canvas API.
 - https://www.hover.dev/ Animated UI Components for React & Tailwind
+- https://github.com/opentypejs/opentype.js Read and write OpenType fonts using JavaScript. @used: https://youtu.be/sA-X0Bw_7Gg?t=202
 
 ## For React Native
 
