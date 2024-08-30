@@ -171,6 +171,13 @@ consistent icons
 - https://stockcake.com/ Captivating Free Images for Every Occasion
 - https://www.radix-ui.com/ An open source component library optimized for fast development
 - https://jvm-docs.vercel.app/ Jsvectormap
+- https://www.fffuel.co/ a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
+
+## minimum CSS lib
+
+- https://concrete.style/
+- https://milligram.io/
+- http://getskeleton.com/
 
 # ⚡ Performance
 - [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
