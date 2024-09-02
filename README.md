@@ -134,6 +134,7 @@ Works in the browser and in Node
 - https://rmbg.fun/
 - https://cutout.aiwave.cc/ 未道帮AI抠图
 - https://geojson.hxkj.vip/ 乡镇地图geo json数据
+- https://imagekit.io/ Media delivery & management
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
