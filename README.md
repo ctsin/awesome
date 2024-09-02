@@ -173,6 +173,8 @@ consistent icons
 - https://www.radix-ui.com/ An open source component library optimized for fast development
 - https://jvm-docs.vercel.app/ Jsvectormap
 - https://www.fffuel.co/ a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
+- https://github.com/finos/calendar  FINOS Calendar
+- https://github.com/williamtroup/Calendar.js A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
 
 ## minimum CSS lib
 
