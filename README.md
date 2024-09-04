@@ -176,6 +176,7 @@ consistent icons
 - https://www.fffuel.co/ a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
 - https://github.com/finos/calendar  FINOS Calendar
 - https://github.com/williamtroup/Calendar.js A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
+- https://github.com/nativewind/nativewind  React Native utility-first universal design system - powered by Tailwind CSS
 
 ## minimum CSS lib
 
