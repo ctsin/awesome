@@ -137,6 +137,14 @@ Works in the browser and in Node
 - https://geojson.hxkj.vip/ 乡镇地图geo json数据
 - https://imagekit.io/ Media delivery & management
 
+SVG & Canvas
+
+- https://github.com/paperjs/paper.js
+- https://github.com/paperjs/paper.js
+- https://github.com/fabricjs/fabric.js
+- https://github.com/fabricjs/fabric.js
+- https://github.com/adobe-webplatform/Snap.svg
+
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
 - [VICTORY](https://formidable.com/open-source/victory/) - React.js components for modular charting and data visualization.
