@@ -136,6 +136,7 @@ Works in the browser and in Node
 - https://cutout.aiwave.cc/ 未道帮AI抠图
 - https://geojson.hxkj.vip/ 乡镇地图geo json数据
 - https://imagekit.io/ Media delivery & management
+- http://jimp-dev.github.io/jimp/ The JavaScript Image Manipulation Program
 
 SVG & Canvas
 
