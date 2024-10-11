@@ -12,6 +12,7 @@
 - https://developers.cloudflare.com/workers-ai/ Cloudflare Workers AI
 - https://clipchamp.com/en/ Quick and easy video editor (for Chrome and Edge only)
 - https://luvvoice.com/ Free text to speech over 200 voices​ and 70 languages
+- https://notebooklm.google/ NotebookLM
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
@@ -40,6 +41,7 @@
 - [tslog](https://tslog.js.org/#/) Beautiful logging experience for TypeScript and JavaScript
 - https://wxt.dev/ Next-gen Web Extension Framework
 - https://mermaid.js.org/intro/  Mermaid lets you create diagrams and visualizations using text and code.
+- https://open-source-license-chooser.toolsnav.top/zh/ 开源许可证选择器
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
@@ -187,6 +189,7 @@ consistent icons
 - https://github.com/finos/calendar  FINOS Calendar
 - https://github.com/williamtroup/Calendar.js A javascript drag & drop event calendar, that is fully responsive and compatible with all modern browsers.
 - https://github.com/nativewind/nativewind  React Native utility-first universal design system - powered by Tailwind CSS
+- git@github.com:callstack/linaria.git Zero-runtime CSS in JS library
 
 ## minimum CSS lib
 
