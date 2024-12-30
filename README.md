@@ -139,6 +139,7 @@ Works in the browser and in Node
 - https://geojson.hxkj.vip/ 乡镇地图geo json数据
 - https://imagekit.io/ Media delivery & management
 - http://jimp-dev.github.io/jimp/ The JavaScript Image Manipulation Program
+- https://pngfree.ai/
 
 SVG & Canvas
 
@@ -245,6 +246,7 @@ consistent icons
 - [Rodrigo Pombo](https://pomb.us/) 
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications. 
 - https://discoverthreejs.com/
+- [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 
 # 📋 CheatSheet
 - [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
