@@ -13,6 +13,7 @@
 - https://clipchamp.com/en/ Quick and easy video editor (for Chrome and Edge only)
 - https://luvvoice.com/ Free text to speech over 200 voices​ and 70 languages
 - https://notebooklm.google/ NotebookLM
+- https://anyvoice.net/zh 超真实AI声音生成器
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
@@ -121,6 +122,7 @@ Works in the browser and in Node
 - https://github.com/vinejs/vine  VineJS is a form data validation library for Node.js 
 - https://hyperformula.handsontable.com/ An open-source headless spreadsheet for business web apps
 - https://github.com/Rich-Harris/devalue Like JSON.stringify, but handles
+- https://github.com/atlassian/pragmatic-drag-and-drop Fast drag and drop for any experience on any tech stack, by Atlassian
 
 - https://imask.js.org/ vanilla javascript input mask
 - https://s-yadav.github.io/react-number-format/docs/props React Number format
@@ -140,6 +142,8 @@ Works in the browser and in Node
 - https://imagekit.io/ Media delivery & management
 - http://jimp-dev.github.io/jimp/ The JavaScript Image Manipulation Program
 - https://pngfree.ai/
+- https://github.com/soimort/you-get Youtube downloader
+- https://github.com/yt-dlp/yt-dlp Youtube downloader
 
 SVG & Canvas
 
@@ -268,3 +272,4 @@ consistent icons
 - [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 - https://github.com/drawdb-io/drawdb
+- https://datacommons.org/ Data Commons brings together the world's public data, by Google
