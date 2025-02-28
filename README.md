@@ -33,6 +33,7 @@
 - https://github.com/Temzasse/react-modal-sheet Flexible bottom sheet component built with Framer Motion
 - https://github.com/EvanBacon/expo-quick-actions Add home screen quick actions / shortcuts to your React Native app
 - https://zeego.dev/ Beautiful, native menus for React Native + Web, inspired by Radix UI.
+- https://docs.expo.dev/versions/latest/sdk/blur-view/ [Demo](https://youtu.be/xNaGYGDZ2JU?t=3404)
 
 # 🖥 Development
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
