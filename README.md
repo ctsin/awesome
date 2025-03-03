@@ -44,6 +44,7 @@
 - https://wxt.dev/ Next-gen Web Extension Framework
 - https://mermaid.js.org/intro/  Mermaid lets you create diagrams and visualizations using text and code.
 - https://open-source-license-chooser.toolsnav.top/zh/ 开源许可证选择器
+- https://github.com/NixOS/nix Nix, the purely functional package manager
 
 # 🧪 Unit test
 - [react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - Simple and complete React hooks testing utilities that encourage good testing practices.
