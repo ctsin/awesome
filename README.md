@@ -253,6 +253,7 @@ consistent icons
 - [bulletproof-react](https://github.com/alan2207/bulletproof-react) - A simple, scalable, and powerful architecture for building production ready React applications. 
 - https://discoverthreejs.com/
 - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
+- https://snyk.io/blog/best-practices-create-modern-npm-package/ Best Practices for Creating a Modern npm Package with Security in Mind
 
 # 📋 CheatSheet
 - [The HTML Coded Character Set](https://www.w3.org/MarkUp/html-spec/html-spec_13.html)
