@@ -14,6 +14,7 @@
 - https://luvvoice.com/ Free text to speech over 200 voices​ and 70 languages
 - https://notebooklm.google/ NotebookLM
 - https://anyvoice.net/zh 超真实AI声音生成器
+- https://github.com/googleapis/js-genai Google AI SKD
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
@@ -51,6 +52,8 @@
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/docs/getting-started/)
 
 # 🛠 Lib & Helper
+- https://github.com/sindresorhus/image-type Detect the image type of a Buffer/Uint8Array 
+- https://github.com/sindresorhus/file-type Detect the file type of a file, stream, or data
 - https://tutorialkit.dev/ Increase Library Adoption with Interactive Coding Tutorials.
 - https://naver.github.io/egjs-infinitegrid/ egjs - InfiniteGrid
 - https://naver.github.io/egjs-flicking/ egjs - Flicking
