@@ -149,6 +149,7 @@ Works in the browser and in Node
 - https://pngfree.ai/
 - https://github.com/soimort/you-get Youtube downloader
 - https://github.com/yt-dlp/yt-dlp Youtube downloader
+- https://jaas.8x8.vc/ World's easiest way to add meetings to your apps
 
 SVG & Canvas
 
