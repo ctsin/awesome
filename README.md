@@ -202,6 +202,7 @@ consistent icons
 - https://github.com/nativewind/nativewind  React Native utility-first universal design system - powered by Tailwind CSS
 - git@github.com:callstack/linaria.git Zero-runtime CSS in JS library
 - https://reui.io/ + https://ktui.io/ ⭐️⭐️⭐️⭐️⭐️ open-source UI by Metronic
+- https://pricingpages.design/ Pricing pages design vault
 
 ## minimum CSS lib
 
