@@ -15,6 +15,7 @@
 - https://notebooklm.google/ NotebookLM
 - https://anyvoice.net/zh 超真实AI声音生成器
 - https://github.com/googleapis/js-genai Google AI SKD
+- https://readdy.ai/ Launch a professional website by chatting with AI.
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
