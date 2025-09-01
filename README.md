@@ -116,6 +116,7 @@ Works in the browser and in Node
 - [reactfire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [smooth-signature](https://github.com/linjc/smooth-signature) - H5带笔锋手写签名，支持PC端和移动端
 - [react-view-pdf](https://github.com/ZEISS/react-view-pdf) - A simple and powerful PDF Viewer library for React.js.
+- https://github.com/parallax/jsPDF  Client-side JavaScript PDF generation for everyone.
 - [docxjs](https://docx.js.org/#/) - Easily generate .docx files with JS/TS. Works for Node and on the Browser
 - [docx](https://github.com/dolanmiu/docx) Easily generate .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. 
 - [Firefox Relay](https://relay.firefox.com/) - Protect your real email address to help control your inbox.
@@ -151,6 +152,7 @@ Works in the browser and in Node
 - https://github.com/soimort/you-get Youtube downloader
 - https://github.com/yt-dlp/yt-dlp Youtube downloader
 - https://jaas.8x8.vc/ World's easiest way to add meetings to your apps
+- https://docs.image-js.org/ Advanced image processing in JavaScript.
 
 SVG & Canvas
 
@@ -222,6 +224,7 @@ consistent icons
 - [Cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus. 
 - [TypeDoc](https://typedoc.org/guides/doccomments/) - TypeDoc runs the TypeScript compiler and extracts type information from the generated compiler symbols.
 - https://github.com/webui-dev/webui Use any web browser or WebView as GUI
+- https://github.com/csswizardry/Obs.js  Context-aware web performance for everyone
 
 # ✨ Effect & Animation
 - https://ui.aceternity.com/ Make your websites look 10x better
@@ -276,10 +279,8 @@ consistent icons
 - [Serverless Postgres](https://neon.tech/)
 - [express-validator](https://www.npmjs.com/package/express-validator)
 - [Hasura](https://hasura.io/) - Instantly make your data accessible over GraphQL
-- [FaunaDB](https://fauna.com/) - The data API for your client‑serverless applications
 - [miragejs](https://github.com/adonisx/adonisx) - A client-side server to build, test and share your JavaScript app
 - [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.
-- [adonisx](https://github.com/adonisx/adonisx) - Fastest way to create Rest API by defining database models and their relations.
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 - https://github.com/drawdb-io/drawdb
 - https://datacommons.org/ Data Commons brings together the world's public data, by Google
