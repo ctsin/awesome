@@ -84,6 +84,7 @@
 - [query-string](https://www.npmjs.com/package/query-string) query-string - Parse and stringify URL query strings
 - [Hygen](http://www.hygen.io/) Hygen - The scalable code generator that saves you time.
 - [useAuth](https://useauth.dev/) useAuth - React App Authentication
+- https://www.better-auth.com/ The most comprehensive authentication framework for TypeScript
 - [SWR](https://swr.vercel.app/) - React Hooks library for data fetching by Vercel. (See more React Query).
 - [幸运大转盘](https://100px.net/) - 一个基于 Js + Canvas 的【大转盘 & 九宫格】抽奖
 - [React scroll sync](https://github.com/okonet/react-scroll-sync) - Synced scroll position across multiple scrollable elements
@@ -242,6 +243,7 @@ consistent icons
 - https://www.hover.dev/ Animated UI Components for React & Tailwind
 - https://github.com/opentypejs/opentype.js Read and write OpenType fonts using JavaScript. @used: https://youtu.be/sA-X0Bw_7Gg?t=202
 - https://github.com/darkroomengineering/lenis  How smooth scroll should be
+- https://openanimation.web.app/ Discover beautiful Lottie animations powered
 
 ## For React Native
 
