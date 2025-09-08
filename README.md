@@ -154,6 +154,8 @@ Works in the browser and in Node
 - https://github.com/yt-dlp/yt-dlp Youtube downloader
 - https://jaas.8x8.vc/ World's easiest way to add meetings to your apps
 - https://docs.image-js.org/ Advanced image processing in JavaScript.
+- https://codeberg.org/chrisn/peaks.js JavaScript UI component for interacting with audio waveforms
+- https://mediabunny.dev/ MediabunnyComplete media toolkit
 
 SVG & Canvas
 
@@ -162,6 +164,7 @@ SVG & Canvas
 - https://github.com/fabricjs/fabric.js
 - https://github.com/fabricjs/fabric.js
 - https://github.com/adobe-webplatform/Snap.svg
+- https://github.com/szimek/signature_pad HTML5 canvas based smooth signature drawing 
 
 # 📊 React Chart
 - [React-vis](https://uber.github.io/react-vis/documentation/welcome-to-react-vis) - a React visualization library by Uber.
