@@ -247,6 +247,7 @@ consistent icons
 - https://github.com/opentypejs/opentype.js Read and write OpenType fonts using JavaScript. @used: https://youtu.be/sA-X0Bw_7Gg?t=202
 - https://github.com/darkroomengineering/lenis  How smooth scroll should be
 - https://openanimation.web.app/ Discover beautiful Lottie animations powered
+- https://www.reactbits.dev/ An open source collection of animated, interactive & fully customizable React components
 
 ## For React Native
 
