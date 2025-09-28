@@ -135,6 +135,7 @@ Works in the browser and in Node
 - https://imask.js.org/ vanilla javascript input mask
 - https://s-yadav.github.io/react-number-format/docs/props React Number format
 - https://github.com/cchanxzy/react-currency-input-field React Currency Input Field Component
+- https://milkdown.dev/docs/guide/getting-started Milkdown
 
 # 📺 Multimedia
 - https://audiocut.app/ Automatically trim audio based on subtitles, removing gaps, noise, and duplicate content
