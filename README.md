@@ -158,6 +158,7 @@ Works in the browser and in Node
 - https://docs.image-js.org/ Advanced image processing in JavaScript.
 - https://codeberg.org/chrisn/peaks.js JavaScript UI component for interacting with audio waveforms
 - https://mediabunny.dev/ MediabunnyComplete media toolkit
+- https://triplex.dev/ Triplex Build the 2D and 3D web
 
 SVG & Canvas
 
