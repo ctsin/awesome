@@ -16,6 +16,7 @@
 - https://anyvoice.net/zh 超真实AI声音生成器
 - https://github.com/googleapis/js-genai Google AI SKD
 - https://readdy.ai/ Launch a professional website by chatting with AI.
+- https://github.com/breschio/drawbridge Design editor for Claude Code and Cursor. "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts. 
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
@@ -213,6 +214,10 @@ consistent icons
 - git@github.com:callstack/linaria.git Zero-runtime CSS in JS library
 - https://reui.io/ + https://ktui.io/ ⭐️⭐️⭐️⭐️⭐️ open-source UI by Metronic
 - https://pricingpages.design/ Pricing pages design vault
+- https://www.footer.design/
+- https://www.404s.design/
+- https://www.cta.gallery/
+- https://www.navbar.gallery/
 
 ## minimum CSS lib
 
