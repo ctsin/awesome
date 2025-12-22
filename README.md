@@ -17,6 +17,7 @@
 - https://github.com/googleapis/js-genai Google AI SKD
 - https://readdy.ai/ Launch a professional website by chatting with AI.
 - https://github.com/breschio/drawbridge Design editor for Claude Code and Cursor. "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts. 
+- https://ui.elevenlabs.io/docs ElevenLabs UI
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
