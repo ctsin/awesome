@@ -18,6 +18,7 @@
 - https://readdy.ai/ Launch a professional website by chatting with AI.
 - https://github.com/breschio/drawbridge Design editor for Claude Code and Cursor. "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts. 
 - https://ui.elevenlabs.io/docs ElevenLabs UI
+- https://mcpmarket.com/zh 优秀的 MCP 服务器和客户端目录
 
 # 📱 React native
 - https://github.com/zoontek/react-native-bootsplash
