@@ -40,6 +40,7 @@
 - https://zeego.dev/ Beautiful, native menus for React Native + Web, inspired by Radix UI.
 - https://docs.expo.dev/versions/latest/sdk/blur-view/ [Demo](https://youtu.be/xNaGYGDZ2JU?t=3404)
 - https://github.com/software-mansion/react-native-enriched  Rich Text Editor for React Native 
+- https://skills.sh/ The Open Agent Skills Ecosystem
 
 # 🖥 Development
 - [Concurrently](https://github.com/kimmobrunfeldt/concurrently#readme) Concurrently - Run multiple commands concurrently. Like npm run watch-js & npm run watch-less but better.
