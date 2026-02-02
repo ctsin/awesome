@@ -136,6 +136,7 @@ Works in the browser and in Node
 - https://hyperformula.handsontable.com/ An open-source headless spreadsheet for business web apps
 - https://github.com/Rich-Harris/devalue Like JSON.stringify, but handles
 - https://github.com/atlassian/pragmatic-drag-and-drop Fast drag and drop for any experience on any tech stack, by Atlassian
+- LibPDF-js A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
 
 - https://imask.js.org/ vanilla javascript input mask
 - https://s-yadav.github.io/react-number-format/docs/props React Number format
