@@ -137,6 +137,7 @@ Works in the browser and in Node
 - https://github.com/Rich-Harris/devalue Like JSON.stringify, but handles
 - https://github.com/atlassian/pragmatic-drag-and-drop Fast drag and drop for any experience on any tech stack, by Atlassian
 - LibPDF-js A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API.
+- https://www.content-collections.dev/ Transform your content into type-safe data collections and say goodbye to manual data fetching and parsing. [Example](https://developers.cloudflare.com/workers/framework-guides/web-apps/tanstack-start/)
 
 - https://imask.js.org/ vanilla javascript input mask
 - https://s-yadav.github.io/react-number-format/docs/props React Number format
